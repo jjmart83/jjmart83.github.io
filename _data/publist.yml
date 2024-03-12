@@ -1,12 +1,3 @@
-- title: "Contemporary body size variation of Neotropical rodents: environmental and genetic effects"
-  image:
-  description: 
-  authors: <strong>JJ Martínez</strong>, LV Sommaro, NS Vera, MB Chiappero, J Priotto
-  link:
-    url: https://link.springer.com/article/10.1007/s11692-024-09625-8
-    display: Evolutionary Biology (2024)
-  highlight: 0
-
 - title: "Phylogeography and ecological niche modeling of the South American cricetid rodent Graomys griseoflavus, with insights into its chromosomal evolution"
   image:
   description: 
@@ -16,15 +7,33 @@
     display: Biological Journal of the Linnean Society (2024)
   highlight: 0
   
+- title: "Contemporary body size variation of Neotropical rodents: environmental and genetic effects"
+  image:
+  description: 
+  authors: <strong>JJ Martínez</strong>, LV Sommaro, NS Vera, MB Chiappero, J Priotto
+  link:
+    url: https://link.springer.com/article/10.1007/s11692-024-09625-8
+    display: Evolutionary Biology 51:166-178 (2024)
+  highlight: 0
+  
 - title: "Meta-analysis of behavioral research in lizards reveals that viviparity contributes better than chemical secretory glands to animal personality"
   image:
   description: 
   authors: MR Ruiz Monachesi, <strong>JJ Martínez</strong>
   link:
     url: https://link.springer.com/article/10.1007/s11692-023-09618-z
-    display: Evolutionary Biology (2023)
+    display: Evolutionary Biology 51:45-68 (2024)
   highlight: 0
 
+- title: "Relatedness dynamics and sex-biased dispersal in a seasonal cycle of corn mice from intensively managed agroecosystems"
+  image:
+  description: 
+  authors: LV Sommaro, <strong>JJ Martínez</strong>, MB Chiappero, A Steinmann, CN Gardenal, JW Priotto
+  link:
+    url: https://doi.org/10.1093/cz/zoac092
+    display: Current Zoology 70:1-12 (2024)
+  highlight: 0
+  
 - title: "Temporal stability in color patterns and body size variation in a six-year monitored population of the aposematic toad (Melanophryniscus rubriventris)"
   image:
   description: 
@@ -59,15 +68,6 @@
   link:
     url: https://doi.org/10.2994/SAJH-D-20-00035.1
     display: South American Journal of Herpetology 25:28-33 (2022)
-  highlight: 0
-  
-- title: "Relatedness dynamics and sex-biased dispersal in a seasonal cycle of corn mice from intensively managed agroecosystems"
-  image:
-  description: 
-  authors: LV Sommaro, <strong>JJ Martínez</strong>, MB Chiappero, A Steinmann, CN Gardenal, JW Priotto
-  link:
-    url: https://doi.org/10.1093/cz/zoac092
-    display: Current Zoology (2022)
   highlight: 0
 
 - title: "Species differentiation in two closely related Neotropical rodents across a transition zone between ecoregions"
