@@ -31,7 +31,7 @@ To achieve these research goals, I employ a multidisciplinary approach that comb
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yungas_luci.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/morpho.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo_leeb.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nacho_yung.jpg" alt="Slide 4" />
