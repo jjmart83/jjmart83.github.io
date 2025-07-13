@@ -10,6 +10,8 @@ Bienvenidos/Welcome!! I am an evolutionary ecologist and population geneticist a
 
 To achieve these research goals, I employ a multidisciplinary approach that combines population genetics, quantitative genetics, and the analysis of phenotypic traits. By integrating these different fields, I aim to unravel intricate eco-evolutionary dynamics underlying the observed patterns and processes (for more details, refer to the  [Research](research) section).
 
+I grew up in a small town in Jujuy and studied in Córdoba, Argentina, before moving to Canada in 2012 to join McGill University as a post-doctoral fellow. I earned both my Bachelor of Science in Biological Sciences and my Doctoral degree in Biology from the National University of Córdoba, and later divided my time between Córdoba and Río Cuarto during my post-doctoral work. I was fortunate during my PhD to be supervised by Dr. Noemí Gardenal, and later to work with Dr. José Priotto and Dr. Virginie Millien during my post-doc. Inspired by them, I have focused my research broadly on population genetics, with a particular interest in phenotypic evolution — how populations diverge and which evolutionary forces, such as selection or genetic drift, shape this differentiation. To address these questions, I combine my background in population genetics and evolutionary ecology to explore how natural populations respond to environmental change.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
